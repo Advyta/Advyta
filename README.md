@@ -4,8 +4,8 @@ I am a passionate frontend developer from India living in Germany.
 I love learning frontend technologies like Reactjs, Nextjs, typescript etc. 
 
 ## 👋 Get in touch
-[<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' height='40'>](https://github.com/https://github.com/Advyta)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/advyta-jujaray/)  
+[<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' height='40'>](https://github.com/Advyta)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/advyta-jujaray/)  
 
 ## 💻 Projects I created while learning
 
