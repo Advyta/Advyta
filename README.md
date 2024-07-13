@@ -11,5 +11,5 @@ I love learning frontend technologies like Reactjs, Nextjs, typescript etc.
 
 - [Subscription-Form](https://subscription-form-sand.vercel.app/personal-info) (Nextjs, MongoDB, Typescript, Tailwind css)
 - [Todo - Task Management App](https://advyta.github.io/Todo-Project/) (Reactjs, Typescript, Tailwind css)
-- [Best Beauty - E-commerce App](https://github.com/Advyta/Best-Beauty) (Reactjs, Redux-Toolkit, Bootstrap)
+- [Best Beauty - E-commerce App](https://github.com/Advyta/Best-Beauty/tree/main/best-beauty-app) (Reactjs, Redux-Toolkit, Bootstrap)
 - [Countries APP](https://advyta.github.io/React-Countries-App/) (Reactjs, Redux-Toolkit, Bootstrap)
