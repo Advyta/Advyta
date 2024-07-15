@@ -9,7 +9,8 @@ I love learning frontend technologies like Reactjs, Nextjs, typescript etc.
 
 ## 💻 Projects I created while learning
 
-- [Multi Step Form Nextjs](https://subscription-form-sand.vercel.app/personal-info) (Nextjs, MongoDB, Typescript, Tailwind css)
-- [Todo - Task Management App](https://advyta.github.io/Todo-Project/) (Reactjs, Typescript, Tailwind css)
-- [Best Beauty - E-commerce App](https://github.com/Advyta/Best-Beauty/tree/main/best-beauty-app) (Reactjs, Redux-Toolkit, Bootstrap)
-- [Countries APP](https://advyta.github.io/React-Countries-App/) (Reactjs, Redux-Toolkit, Bootstrap)
+- Subscription-Form - [Live site](https://subscription-form-sand.vercel.app/personal-info) (Nextjs, MongoDB, Typescript, Tailwind css, Context API)
+- Todo - Task Management App - [Live site](https://advyta.github.io/Todo-Project/) (Reactjs, Typescript, Tailwind css)
+- Countries APP - [Live site](https://advyta.github.io/React-Countries-App/) (Reactjs, Redux-Toolkit, React-Bootstrap)
+- Best Beauty - E-commerce App - [Github repo](https://github.com/Advyta/Best-Beauty/tree/main/best-beauty-app) (Reactjs, Redux-Toolkit, React-Bootstrap)
+- Space-tourism-multi-page-website - [Live site](https://advyta.github.io/Space-tourism-multi-page-website/#/) (Reactjs, React-Bootstrap, Javascript)
