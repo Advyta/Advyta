@@ -14,3 +14,4 @@ I love learning frontend technologies like Reactjs, Nextjs, typescript etc.
 - Countries APP - [Live site](https://advyta.github.io/React-Countries-App/) (Reactjs, Redux-Toolkit, React-Bootstrap)
 - Best Beauty - E-commerce App - [Github repo](https://github.com/Advyta/Best-Beauty/tree/main/best-beauty-app) (Reactjs, Redux-Toolkit, React-Bootstrap)
 - Space-tourism-multi-page-website - [Live site](https://advyta.github.io/Space-tourism-multi-page-website/#/) (Reactjs, React-Bootstrap, Javascript)
+- Coffee Creations - Coffee recipes website - [Github repo](https://github.com/Advyta/Coffee) (Nextjs, MongoDB, Typescript, Tailwind css, Redux toolkit, Gsap animations)
